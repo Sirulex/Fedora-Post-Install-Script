@@ -114,7 +114,8 @@ installAutoCpuFreq () {
   git clone https://github.com/AdnanHodzic/auto-cpufreq.git
   chmod +x ./auto-cpufreq/auto-cpufreq-installer
   sudo ./auto-cpufreq/auto-cpufreq-installer
-  echo "Installed Auto-CPU-Freq"
+  sudo auto-cpufreq --install
+  echo "Installed Auto-CPU-Freq"ep
 }
 
 echo -e "\nFedora Post-Install Script made by Sirulex\n"
