@@ -4,7 +4,8 @@
 
 #### Note: This script is primarily targeted for Fedora GNOME
 
-###### I created this script to get basic functionality working for my Lenovo-Laptop (Slim-7-Pro)
+I created this script to get basic functionality working for my Lenovo-Laptop (Slim-7-Pro)
+
 Feel free to update this script to your liking or report any bugs you encounter
 
 ## How to run?
